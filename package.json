@@ -1,0 +1,22 @@
+{
+  "name": "william-stalker-1.0",
+  "version": "1.0.0",
+  "description": "Script that makes sure William can not access your discord bot.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "William",
+    "Discord",
+    "bot",
+    "built-in",
+    "anti-william",
+    "feature"
+  ],
+  "author": "@MCUniversity#0859",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
