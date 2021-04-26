@@ -7,6 +7,9 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+  <a href="https://repl.it/github/MCUniversity/william-blocker" target="_blank">
+    <img alt="Run on Repl.it" src="https://repl.it/badge/github/MCUniversity/william-blocker.svg" />
+  </a>
   <a href="https://twitter.com/mcuniversity\_" target="_blank">
     <img alt="Twitter: mcuniversity_" src="https://img.shields.io/twitter/follow/mcuniversity_.svg?style=social" />
   </a>
