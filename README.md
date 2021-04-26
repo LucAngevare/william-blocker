@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Script that makes sure William can not access your discord bot.
+> Afraid your local William will hack into your discord bot? Need a fast and efficient solution? Well look no further, I have just the solution for you! This script is so optimized and fast it will LOWER your bot's connection to discord servers' latency by about 30 miliseconds. Best of all? It has been tested thoroughly many times and it works perfectly.  
 
 ### 🏠 [Homepage](https://github.com/MCUniversity/william-blocker/)
 
