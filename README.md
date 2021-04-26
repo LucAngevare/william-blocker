@@ -8,7 +8,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/mcuniversity\_" target="_blank">
-    <img alt="Twitter: mcuniversity\_" src="https://img.shields.io/twitter/follow/mcuniversity\_.svg?style=social" />
+    <img alt="Twitter: mcuniversity_" src="https://img.shields.io/twitter/follow/mcuniversity_.svg?style=social" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ npm run test
 👤 **@MCUniversity#0859**
 
 * Website: https://github.com/MCUniversity/
-* Twitter: [@mcuniversity\_](https://twitter.com/mcuniversity\_)
+* Twitter: [@mcuniversity_](https://twitter.com/mcuniversity_)
 * Github: [@MCUniversity](https://github.com/MCUniversity)
 
 ## 🤝 Contributing
